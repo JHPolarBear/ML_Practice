@@ -5,4 +5,4 @@
 
 ## Material
 - 혼자 공부하는 머신러닝/딥러닝
-- <a href="https://hunkim.github.io/ml/" target="_blank">모두를 위한 머신러닝/딥러닝</a>
+- 모두를 위한 머신러닝/딥러닝 : https://hunkim.github.io/ml/
